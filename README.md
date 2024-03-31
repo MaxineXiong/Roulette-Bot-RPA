@@ -21,9 +21,9 @@ won't work, you will need to find another way to click the elements/images/regio
 - Bet $1 on **Even**, then click spin. If you win, bet $1 again, if you lose double your bet for the next spin, i.e. $2, $4, $8, $16 etc. until there are no more funds in your balance left to bet.
 - Use OCR to get the number of the previous spin and check if the number is odd or even using code: PreviousNumber mod 2 = 0, then EVEN, else ODD. Note that PreviousNumber is an integer variable containing the value of the previous spin.
 
-_You can check out the **automation demo video for the solution** below_:
+_You can check out the **automation demo video for the solution** by clicking on the badge below_:
 
-https://github.com/MaxineXiong/IP-Address-to-Location-Converter-Bot-RPA/assets/55864839/b592bed2-0693-49b0-9077-341dd070a549
+[![View Demo - Martingale Roulette Bot](https://img.shields.io/badge/View_Demo-Martingale_Roulette_Bot-FA4616)](https://1drv.ms/v/s!AhxVr7ogXVBRlSeFm9dFE3aTBujD)
 
 
 

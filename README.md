@@ -23,7 +23,7 @@ won't work, you will need to find another way to click the elements/images/regio
 
 _You can check out the **automation demo video for the solution** by clicking on the badge below_:
 
-[![View Demo - Martingale Roulette Bot](https://img.shields.io/badge/View_Demo-Martingale_Roulette_Bot-FA4616)](https://1drv.ms/v/s!AhxVr7ogXVBRlSeFm9dFE3aTBujD)
+[![View Demo - Martingale Roulette Bot](https://img.shields.io/badge/View_Demo-Martingale_Roulette_Bot-FA4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlSeFm9dFE3aTBujD)
 
 
 

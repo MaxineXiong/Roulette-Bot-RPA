@@ -17,7 +17,7 @@ won't work, you will need to find another way to click the elements/images/regio
 
 ### **Instructions**
 
-- Open https://roulette77.co.za/european-roulette and maximise the game to full screen.
+- Open https://roulette77.co.za/european-roulette  and maximise the game to full screen.
 - Bet $1 on **Even**, then click spin. If you win, bet $1 again, if you lose double your bet for the next spin, i.e. $2, $4, $8, $16 etc. until there are no more funds in your balance left to bet.
 - Use OCR to get the number of the previous spin and check if the number is odd or even using code: PreviousNumber mod 2 = 0, then EVEN, else ODD. Note that PreviousNumber is an integer variable containing the value of the previous spin.
 

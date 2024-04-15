@@ -41,8 +41,8 @@ Before installing **UiPath Softwares**, please make sure your system meets the h
 The **Uipath Platform** includes the following tools:
 
 - **UiPath Studio**
-- **UiPath Robot**
-- **UiPath Orchestrator**
+- **UiPath Assistant**
+- **UiPath Automation Cloud, including UiPath Orchestrator**
 
 <details>  
 <summary> To run this project successfully, please follow these steps to install UiPath Studio:
